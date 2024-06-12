@@ -1,0 +1,6 @@
+@Restcountries_api_HostAddress = http://localhost:5165
+
+GET {{Restcountries_api_HostAddress}}/countries/
+Accept: application/json
+
+###
